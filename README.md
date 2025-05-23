@@ -1,12 +1,13 @@
 <p align="center">
   <img src="./assets/banner_capsule_header.svg" alt="Header Banner" />
 </p>
+<!--ONLINE LINK DESIGN https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%F0%9F%91%BE%20SrRusian%20%F0%9F%94%90&fontSize=45&fontAlignY=40&desc=Back-end%20Developer%20%26%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=62 -->
 
 <h1 align="center">Hola, soy Emmanuel Camacho 👋</h1>
 <h3 align="center">🛡️ Back-end Developer & Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+secure+systems+with+NestJS+and+TypeScript;Pentester+in+training;Always+learning...&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end+developer;Automating+Linux+tasks+with+Bash;Hacking+the+impossible;Always+learning+something+new...&center=true&width=500&height=45">
 </p>
 
 ---
@@ -14,7 +15,7 @@
 ### 🧠 Sobre mí
 
 - 👨‍💻 Desarrollador backend con enfoque en ciberseguridad.
-- ⚙️ Tech Stack principal: **JavaScript**, **TypeScript**, **NestJS**, **Shell Scripting**, **C#**.
+- ⚙️ Tech Stack principal: **JavaScript**, **Shell Scripting**, **C#**.
 - 🐧 Apasionado por la automatización en Linux y el pentesting ofensivo.
 - 📚 Siempre aprendiendo nuevas herramientas y técnicas de seguridad.
 - 🌐 Portafolio: [srrusian.github.io/Portfolio](https://srrusian.github.io/Portfolio)
@@ -28,7 +29,7 @@
 ### 🛠 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nestjs,nodejs,bash,linux,html,css,git,github,vscode,csharp" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,bash,linux,html,css,git,github,vscode,docker,mysql" />
 </p>
 
 ---
