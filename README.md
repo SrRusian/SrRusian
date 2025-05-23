@@ -1,6 +1,6 @@
 <!-- Banner de bienvenida -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SrRusian%20👨‍💻&fontSize=45&fontAlignY=40&desc=Back-end%20Developer%20%26%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=62" />
+  <img src="./assets/banner_srrusian.png" alt="Banner SrRusian" />
 </p>
 
 <h1 align="center">Hola, soy Emmanuel Camacho 👋</h1>
@@ -36,12 +36,12 @@
 
 ### 📂 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| [**Portfolio**](https://github.com/SrRusian/Portfolio) | Mi portafolio web profesional. | `HTML`, `CSS`, `JS` |
-| [**My Knowledge Base**](https://github.com/SrRusian/My_Knowledge_Base) | Base de conocimiento sobre ofensiva y herramientas de pentesting. | `Markdown`, `HTML` |
-| [**Automation Scripts**](https://github.com/SrRusian/Automation_Scripts) | Scripts en Bash para automatización Linux. | `Shell`, `Linux` |
-| [**Pentest Scripts**](https://github.com/SrRusian/Pentest_Scripts) | Scripts ofensivos para prácticas de pentesting. | `Shell`, `Python` (en desarrollo) |
+| Proyecto                                                                 | Descripción                                                       | Tecnologías                       |
+| ------------------------------------------------------------------------ | ----------------------------------------------------------------- | --------------------------------- |
+| [**Portfolio**](https://github.com/SrRusian/Portfolio)                   | Mi portafolio web profesional.                                    | `HTML`, `CSS`, `JS`               |
+| [**My Knowledge Base**](https://github.com/SrRusian/My_Knowledge_Base)   | Base de conocimiento sobre ofensiva y herramientas de pentesting. | `Markdown`, `HTML`                |
+| [**Automation Scripts**](https://github.com/SrRusian/Automation_Scripts) | Scripts en Bash para automatización Linux.                        | `Shell`, `Linux`                  |
+| [**Pentest Scripts**](https://github.com/SrRusian/Pentest_Scripts)       | Scripts ofensivos para prácticas de pentesting.                   | `Shell`, `Python` (en desarrollo) |
 
 ---
 
@@ -60,9 +60,7 @@
 
 ### 🐍 Snake game (Commits visual)
 
-<p align="center">
-  <img src="https://github.com/SrRusian/SrRusian/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+![Snake animation](https://github.com/SrRusian/SrRusian/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
