@@ -1,6 +1,6 @@
 <!-- Banner de bienvenida -->
 <p align="center">
-  <img src="./assets/banner_srrusian.png" alt="Banner SrRusian" />
+  <img src="./assets/banner.png" alt="Banner SrRusian" />
 </p>
 
 <h1 align="center">Hola, soy Emmanuel Camacho 👋</h1>
