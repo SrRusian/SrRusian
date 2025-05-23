@@ -1,3 +1,8 @@
+<!-- Banner de bienvenida -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SrRusian%20👨‍💻&fontSize=45&fontAlignY=40&desc=Back-end%20Developer%20%26%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=62" />
+</p>
+
 <h1 align="center">Hola, soy Emmanuel Camacho 👋</h1>
 <h3 align="center">🛡️ Back-end Developer & Cybersecurity Enthusiast</h3>
 
@@ -15,9 +20,13 @@
 - 📚 Siempre aprendiendo nuevas herramientas y técnicas de seguridad.
 - 🌐 Portafolio: [srrusian.github.io/Portfolio](https://srrusian.github.io/Portfolio)
 
+🔗 Conéctate conmigo:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sr.rusian@gmail.com)
+
 ---
 
-### 🚀 Tecnologías y herramientas
+### 🛠 Tecnologías y herramientas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nestjs,nodejs,bash,linux,html,css,git,github,vscode,csharp" />
@@ -43,12 +52,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrRusian&layout=compact&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SrRusian&label=Profile+views" alt="Profile Views" />
+</p>
+
 ---
 
-### 📬 ¿Te interesa colaborar?
+### 🐍 Snake game (Commits visual)
 
-- 💼 Busco oportunidades donde pueda aplicar mis conocimientos en desarrollo seguro y pentesting.
-- 📫 Contáctame en: **sr.rusian@gmail.com**
+<p align="center">
+  <img src="https://github.com/SrRusian/SrRusian/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
