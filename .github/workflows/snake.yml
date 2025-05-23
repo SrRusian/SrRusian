@@ -3,7 +3,12 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *" # Genera diariamente
-  workflow_dispatch: # Permite ejecución manual
+  workflow_dispatch:     # Permite ejecución manual
+
+permissions:
+  contents: write         # 🔑 Necesario para hacer push
+  pages: write
+  id-token: write
 
 jobs:
   generate:
