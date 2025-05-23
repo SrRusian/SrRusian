@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner_capsule_header.svg" alt="Header Banner" />
+  <img src="./assets/banner_capsule_header_clean.svg" alt="Header Banner" />
 </p>
 <!--ONLINE LINK DESIGN https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%F0%9F%91%BE%20SrRusian%20%F0%9F%94%90&fontSize=45&fontAlignY=40&desc=Back-end%20Developer%20%26%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=62 -->
 
