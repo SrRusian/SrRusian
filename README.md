@@ -20,8 +20,8 @@
 - 🌐 Portfolio: [srrusian.github.io/Portfolio](https://srrusian.github.io/Portfolio)
 
 🔗 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sr.rusian@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srrusian)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srremmanuelm@gmail.com)
 
 ---
 
