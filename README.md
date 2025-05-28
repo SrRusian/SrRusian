@@ -25,6 +25,15 @@
 
 ---
 
+### 🛡️ TryHackMe Badge
+🏅 Currently at **0x7 [ADEPT]** on TryHackMe (3,000+ points)
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/SrRusian.png" alt="TryHackMe Badge" />
+</p>
+
+---
+
 ### 🛠 Technologies & Tools
 
 <p align="center">
