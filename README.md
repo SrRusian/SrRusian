@@ -28,6 +28,10 @@
 ### 🛡️ TryHackMe Badge
 🏅 Currently at **0x8 [HACKER]** on TryHackMe (4,000+ points)
 
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/SrRusian.png" alt="Your Image Badge" />
+</p>
+
 ---
 
 ### 🛠 Technologies & Tools
