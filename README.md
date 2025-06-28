@@ -29,7 +29,7 @@
 🏅 Currently at **0x9 [MAGE]** on TryHackMe (8,000+ points)
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/SrRusian.png?v=5" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/SrRusian.png?v=6" alt="Your Image Badge" />
 </p>
 
 ---
