@@ -47,7 +47,7 @@
 | Project                                                                  | Description                                                        | Tech Stack                        |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------ | --------------------------------- |
 | [**Portfolio**](https://github.com/SrRusian/Portfolio)                   | My professional personal portfolio.                                | `HTML`, `CSS`, `JS`               |
-| [**My Knowledge Base**](https://github.com/SrRusian/My_Knowledge_Base)   | Offensive cybersecurity and pentesting knowledge base.             | `Markdown`, `HTML`                |
+| [**My Personal Guide**](https://github.com/SrRusian/My_Personal_Guide)   | Offensive cybersecurity and pentesting knowledge base.             | `Markdown`, `HTML`                |
 | [**Automation Scripts**](https://github.com/SrRusian/Automation_Scripts) | Bash scripts for Linux automation tasks.                           | `Shell`, `Linux`                  |
 | [**Pentest Scripts**](https://github.com/SrRusian/Pentest_Scripts)       | Offensive scripts for pentesting practice.                         | `Shell`, `Python` (in progress)   |
 
