@@ -133,13 +133,9 @@ Professional portfolio showcasing projects, technical skills, and cybersecurity 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrRusian&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrRusian&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SrRusian&theme=github-dark-blue&hide_border=true)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrRusian&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrRusian&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrRusian&theme=tokyonight"/>
 </div>
 
 ---
