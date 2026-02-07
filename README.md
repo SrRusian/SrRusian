@@ -139,14 +139,13 @@ Professional portfolio showcasing projects, technical skills, and cybersecurity 
 </div>
 
 ---
-
+<!-- BLOG-POST-LIST:START
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 - [Understanding JWT Vulnerabilities in API Security](https://srrusian.github.io/My_Knowledge_Base/api-security/jwt-attacks/)
 - [OWASP Top 10: Practical Exploitation Guide](https://srrusian.github.io/My_Knowledge_Base/web-pentesting/owasp-top10/)
 - [Linux Privilege Escalation Techniques](https://srrusian.github.io/My_Knowledge_Base/linux/privesc/)
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:END -->
 
 ---
 
